@@ -1,7 +1,10 @@
 {{ define "main" }}
+<div class="text-dark text-center container">
+    {{ .Content }}
+</div>
 
-<div class="container">
-{{ range (.Pages.ByParam "title") }}
+<div class="container col-md-6">
+{{ range (.Pages.ByParam "order") }}
 <p>
     <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
 </p>

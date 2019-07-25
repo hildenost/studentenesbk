@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Studentenes bridgeklubb</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Studentenes bridgeklubb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>nb-no</language>
+    <lastBuildDate>Tue, 23 Jul 2019 21:24:13 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>02 Kontrakter</title>
+      <link>https://example.com/02-kontrakter/</link>
+      <pubDate>Tue, 23 Jul 2019 21:24:13 +0200</pubDate>
+      
+      <guid>https://example.com/02-kontrakter/</guid>
+      <description>Her skal du lære om kontrakter.</description>
+    </item>
+    
+    <item>
+      <title>01 Introduksjon</title>
+      <link>https://example.com/01-introduksjon/</link>
+      <pubDate>Tue, 23 Jul 2019 21:16:32 +0200</pubDate>
+      
+      <guid>https://example.com/01-introduksjon/</guid>
+      <description>Bridge er et kortspill som er beslekta med amerikaner, whist, spar, og andre whist-lignende spill der det handler om å ta stikk. Det er et lagspill siden du samarbeider med makkeren din om å finne beste kontrakt og om å ta flest mulig stikk. Når man konkurrerer i bridge, bruker man forhåndsgitte kort, så alle giver er like for alle bordene i turneringen. Sitter du Nord, har du samme kort som alle andre i salen som sitter Nord.</description>
+    </item>
+    
+    <item>
+      <title>Om</title>
+      <link>https://example.com/om/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/om/</guid>
+      <description>Vi er en bridgeklubb.</description>
+    </item>
+    
+  </channel>
+</rss>
