@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://example.com/utspill/</loc>
+    <lastmod>2019-07-25T23:24:33+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/spillef%C3%B8ring-i-nt/</loc>
+    <lastmod>2019-07-25T23:22:30+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://example.com/02-kontrakter/</loc>
     <lastmod>2019-07-23T21:24:13+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/hva-er-bridge/</loc>
+    <lastmod>2019-07-23T21:16:32+02:00</lastmod>
   </url>
   
   <url>
@@ -14,7 +29,7 @@
   
   <url>
     <loc>https://example.com/kurs/</loc>
-    <lastmod>2019-07-23T21:24:13+02:00</lastmod>
+    <lastmod>2019-07-25T23:24:33+02:00</lastmod>
   </url>
   
   <url>
@@ -28,7 +43,7 @@
   
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2019-07-23T21:24:13+02:00</lastmod>
+    <lastmod>2019-07-25T23:24:33+02:00</lastmod>
   </url>
   
   <url>

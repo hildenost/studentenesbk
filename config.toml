@@ -12,9 +12,9 @@ languageCode = "nb-no"
         url = "/"
         weight = 1
     [[menu.main]]
-        name = "Kurs"
+        name = "Hva er bridge?"
         pre = "book-open"
-        url = "/kurs/"
+        url = "/hva-er-bridge/"
         weight = 2
     [[menu.main]]
         name = "Om"

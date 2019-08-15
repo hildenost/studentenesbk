@@ -6,13 +6,31 @@
     <description>Recent content in Bridgekurs on Studentenes bridgeklubb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nb-no</language>
-    <lastBuildDate>Tue, 23 Jul 2019 21:24:13 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 23:24:33 +0200</lastBuildDate>
     
 	<atom:link href="https://example.com/kurs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>02 Kontrakter</title>
+      <title>Utspill</title>
+      <link>https://example.com/utspill/</link>
+      <pubDate>Thu, 25 Jul 2019 23:24:33 +0200</pubDate>
+      
+      <guid>https://example.com/utspill/</guid>
+      <description>Utspillet er motspillernes fordel og kan påvirke resultatet av kontrakten. </description>
+    </item>
+    
+    <item>
+      <title>Spilleføring I NT</title>
+      <link>https://example.com/spillef%C3%B8ring-i-nt/</link>
+      <pubDate>Thu, 25 Jul 2019 23:22:30 +0200</pubDate>
+      
+      <guid>https://example.com/spillef%C3%B8ring-i-nt/</guid>
+      <description>Vi lærer først at spilleføring i NT er dritlett.</description>
+    </item>
+    
+    <item>
+      <title>Kontrakter</title>
       <link>https://example.com/02-kontrakter/</link>
       <pubDate>Tue, 23 Jul 2019 21:24:13 +0200</pubDate>
       
@@ -21,12 +39,13 @@
     </item>
     
     <item>
-      <title>01 Introduksjon</title>
+      <title>Introduksjon</title>
       <link>https://example.com/01-introduksjon/</link>
       <pubDate>Tue, 23 Jul 2019 21:16:32 +0200</pubDate>
       
       <guid>https://example.com/01-introduksjon/</guid>
-      <description>Bridge er et kortspill som er beslekta med amerikaner, whist, spar, og andre whist-lignende spill der det handler om å ta stikk. Det er et lagspill siden du samarbeider med makkeren din om å finne beste kontrakt og om å ta flest mulig stikk. Når man konkurrerer i bridge, bruker man forhåndsgitte kort, så alle giver er like for alle bordene i turneringen. Sitter du Nord, har du samme kort som alle andre i salen som sitter Nord.</description>
+      <description>Bridge er et kortspill som er beslekta med amerikaner, whist, spar, og andre whist-lignende spill der det handler om å ta stikk.
+Det er et lagspill siden du samarbeider med makkeren din om å finne beste kontrakt og om å ta flest mulig stikk. Når man konkurrerer i bridge, bruker man forhåndsgitte kort, så alle giver er like for alle bordene i turneringen. Sitter du Nord, har du samme kort som alle andre i salen som sitter Nord.</description>
     </item>
     
   </channel>
