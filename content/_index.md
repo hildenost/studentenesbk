@@ -18,6 +18,6 @@ Du trenger heller ikke makker.
 
 Velkommen på kurs for å lære verdens beste kortspill!
 
-<div class="embed-responsive embed-responsive-1by1">
-<iframe class="embed-reponsive-item" width="600" height="420" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://use.mazemap.com/embed.html#v=1&zlevel=2&left=10.4025411&right=10.4056846&top=63.4189669&bottom=63.4184952&campuses=ntnu&campusid=1&sharepoitype=poi&sharepoi=298746&utm_medium=iframe" style="border: 1px solid grey"></iframe><br/><small><a href="https://www.mazemap.com/">Map by MazeMap</a></small>
+<div class="embed-responsive embed-responsive-4by3 w-50 d-block mx-auto">
+<iframe class="embed-reponsive-item" scrolling="no" marginheight="0" marginwidth="0" src="https://use.mazemap.com/embed.html#v=1&zlevel=2&left=10.4025411&right=10.4056846&top=63.4189669&bottom=63.4184952&campuses=ntnu&campusid=1&sharepoitype=poi&sharepoi=298746&utm_medium=iframe" style="border: 1px solid grey"></iframe><br/><small><a href="https://www.mazemap.com/">Map by MazeMap</a></small>
 </div>
