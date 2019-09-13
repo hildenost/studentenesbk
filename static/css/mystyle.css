@@ -1,0 +1,27 @@
+#TableOfContents {
+    border: 0px solid #ddd;/**/
+    margin-bottom: 30px;
+}
+
+#TableOfContents a {
+    /*color: #333;*/
+    color: #38761d;
+}
+
+#TableOfContents ul {
+    margin: 0;
+    padding: 0px 0px 0 0px;
+    margin-bottom: 10px;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+#TableOfContents ul li ul li ul li ul {
+    font-weight: normal;
+    border: 0px solid #ddd;/*#38761d;*/
+    border-left-width: 5px;
+    padding-left: 20px;
+}
+#TableOfContents ul li ul li ul li ul a{
+    color: #333;
+}

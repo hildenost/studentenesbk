@@ -1,9 +1,18 @@
-<div class="card">
+<div class="card"
+    >
     {{ with .Get "img" }}
     <img class="card-img-top" src="{{.}}" alt="Card image cap" />
     {{ end }}
   <div class="card-body">
-      <h2 class="card-title">{{ .Get "title" }}</h2>
+      <h2 class="card-title"
+     id='{{ with .Get "link" }}
+            {{ . }}
+         {{ else }}
+            {{ .Get "title" }}
+         {{ end }}'
+
+
+          >{{ .Get "title" }}</h2>
     <p class="card-text">{{ .Inner | markdownify }}</p>
 
   </div>
