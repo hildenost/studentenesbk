@@ -1,5 +1,5 @@
 #TableOfContents {
-    border: 0px solid #ddd;/**/
+    border: 0px solid #ddd;
     margin-bottom: 30px;
 }
 
@@ -7,6 +7,7 @@
     /*color: #333;*/
     color: #38761d;
 }
+
 
 #TableOfContents ul {
     margin: 0;

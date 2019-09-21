@@ -1,0 +1,16 @@
+{{ $players := dict "N" "north" "S" "south" "E" "east" "W" "west" }}
+<div class="board">
+    {{ range $list := split .Inner "\n" }}
+        {{ $hand := split . ":" }}
+        {{ $player := index $hand 0 }}
+        {{ $cards := index $hand 1 }}
+        {{ if $cards }}
+        <div class="{{ index $players $player}}">
+            {{ $cards }}
+        </div>
+            {{ if eq $player "N" }}
+            {{ ":white_large_square:" | emojify }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+</div>

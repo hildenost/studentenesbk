@@ -3,12 +3,17 @@
     {{ .Content }}
 </div>
 
-<div class="container col-md-6">
+<div class="container col-md-4">
+    <div id="TableOfContents">
+        <ul>
 {{ range (.Pages.ByParam "order") }}
-<p>
+<li>
     <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
-</p>
+
+</li>
 {{ end }}
+        </ul>
+</div>
 </div>
 
 {{ end }}

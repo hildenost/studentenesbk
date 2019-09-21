@@ -3,4 +3,6 @@ title = "Bridgekurs"
 description = "Sammendrag av hver bridgekurskveld"
 url = "/kurs/"
 +++
-Alt som blir gjennomgått på kurset, presenteres også her.
+<p class="lead">
+Her blir sammendrag av hver kurskveld lagt ut fortløpende.
+</p>

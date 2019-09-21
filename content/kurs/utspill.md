@@ -2,7 +2,7 @@
 title: "Utspill"
 order: 2.6
 date: 2019-07-25T23:24:33+02:00
-draft: false
+draft: true
 type: "kurs"
 ---
 <p class="lead">
