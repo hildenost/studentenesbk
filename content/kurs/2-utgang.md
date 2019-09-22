@@ -239,8 +239,3 @@ _Svar:_
 
 Meldingene videre avgjøres så om makkerparet har **trumftilpass**.
 Hvis du som makker ser at dere har _både_ trumftilpass _og_ 25 poeng til sammen, kan du melde 4 major direkte.
-
-{{< board >}}
-N: EDkn
-S: 432
-{{< /board >}}
