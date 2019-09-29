@@ -141,16 +141,59 @@ Hvis det er plass på 1-trinnet, kan du med minst 6 poeng melde fargen din.
 Reglene for å velge farge å melde, er lik som med åpningsmeldingene, bare at det holder at fargen er på 4 kort.
 
 {{< example >}}
-Makker åpner 1:diamonds:.
+Makker åpner 1:diamonds:, og du har ikke trumfstøtte.
 
 * Du har både 4 kort hjerter og 4 kort spar. Du melder 1:hearts: først, siden du har 2 4-kortsfarger.
 * Du har både 5 kort hjerter og 5 kort spar. Du melder 1:spades: først, siden du har 2 5-kortsfarger.
 {{< /example >}}
 
+{{< alert >}}
+Hvis du har både 4-korts major _og_ støtte i minor, bør du melde majoren før du støtter minoren.
+
+Grunnen til det er at majorkontrakter gir mer poeng enn minorkontrakter, og makker kan ha 4-korts major.
+{{< /alert >}}
 
 #### 2-over-1 (minst 11 poeng)
+For å melde egen farge på 2-trinnet, må du ha minst 11 poeng.
+
+{{< example >}}
+Makker åpner 1:diamonds:, og du har ikke trumfstøtte.
+
+Hva melder du med:
+
+1. :spades:K8
+    :hearts:EK103
+    :diamonds:D2
+    :clubs:kn10964
+
+1. :spades:K8
+    :hearts:K1053
+    :diamonds:D2
+    :clubs:kn10964
+
+_Svar:_
+
+1. Med 13 poeng, kan du melde på 2-trinnet. Du melder din lengste farge: 2:clubs:.
+1. Med 9 poeng, kan du _ikke_ melde på 2-trinnet. Selv om kløveren er lengst, må du nøye deg med 1:spades:.
+{{< /example >}}
 
 
 #### 1NT (6-10 poeng)
+Hvis du ikke har trumfstøtte, og ingen farge du kan melde på 1-trinnet, og mindre enn 11 poeng, melder du **1NT**.
+Denne meldingen kan romme mange slags hender, og trenger ikke være balansert.
 
 ### Begrenset eller ubegrenset hånd?
+Å melde en ny farge, uansett om det er på 1-trinnet eller 2-trinnet, er **rundekrav**.
+Det vil si at **makker ikke kan passe**.
+
+Det er fordi det er en _ubegrenset melding_.
+Du har vist _minst_ 6 poeng (1-trinnet) eller 11 poeng (2-trinnet), men du kan jo ha over 20 poeng!
+
+Svarmeldingen 1NT er derimot en _begrenset melding_, på samme måte som støttemeldingene.
+Det er fordi disse meldingene også sier noe om _maks_ antall poeng.
+
+Makker kan derfor passe med god samvittighet hvis det ikke er nok poeng til å melde utgang.
+
+{{< alert >}}
+Ny farge er _alltid_ krav til ny melding.
+{{< /alert >}}
