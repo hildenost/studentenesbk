@@ -5,6 +5,10 @@ date: {{ .Date }}
 draft: false
 type: "kurs"
 ---
-<p class="lead">
-Here goes the intro paragraph.
-</p>
+{{< lead >}}
+Intro paragraph
+{{< /lead >}}
+
+Other intro paragraph
+
+{{ toc }}

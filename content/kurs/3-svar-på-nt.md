@@ -11,7 +11,7 @@ Da melder du **Stayman** eller **overføringer** først.
 Når du ikke vet om dere har nok poeng til utgang, kan du **invitere**.
 {{< /lead >}}
 
-Denne kvelden lærte vi å tre _kunstige_ meldinger som svar på 1NT.
+Denne kvelden lærte vi tre _kunstige_ meldinger som svar på 1NT.
 Hensikten er å finne eventuell trumftilpass, og også om vi skal i utgang eller ikke.
 
 {{< toc >}}
