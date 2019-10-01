@@ -1,7 +1,8 @@
 ---
 title: "Kurskveld 3: Svar på 1NT"
 order: 3
-date: 2019-09-22T22:56:42+02:00
+date: 2019-09-16
+lastmod: 2019-09-22T22:56:42+02:00
 draft: false
 type: "kurs"
 ---

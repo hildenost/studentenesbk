@@ -2,6 +2,7 @@
 title: "Kurskveld 2: Utgang"
 order: 2
 date: 2019-09-09
+lastmod: 2019-09-10
 draft: false
 type: "kurs"
 ---

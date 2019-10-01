@@ -1,7 +1,8 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Kurskveld {{ replace .Name "-" " " | title }}"
 order: 0
-date: {{ .Date }}
+date:
+lastmod: {{ .Date }}
 draft: false
 type: "kurs"
 ---
@@ -11,4 +12,4 @@ Intro paragraph
 
 Other intro paragraph
 
-{{ toc }}
+{{< toc >}}

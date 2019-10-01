@@ -1,7 +1,8 @@
 ---
 title: "Kurskveld 4: Svar på 1 i farge"
 order: 4
-date: 2019-09-29T14:14:39+02:00
+date: 2019-09-23
+lastmod: 2019-09-29T14:14:39+02:00
 draft: false
 type: kurs
 ---

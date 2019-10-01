@@ -1,7 +1,8 @@
 ---
 title: "Kurskveld 1: Lynbridge"
 order: 1
-
+date: 2019-09-02
+lastmod: 2019-09-07
 draft: false
 type: "kurs"
 ---

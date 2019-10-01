@@ -3,17 +3,23 @@
     {{ .Content }}
 </div>
 
-<div class="container col-md-4">
-    <div id="TableOfContents">
-        <ul>
+<div class="container col-md-7" id="TableOfContents">
+<ul>
 {{ range (.Pages.ByParam "order") }}
-<li>
-    <a class="font-125" href="{{ .RelPermalink }}">{{ .Title }}</a>
-
-</li>
+<li><div class="row pb-3">
+        <div class="font-weight-lighter col-lg-3 text-lg-right text-secondary">{{ .Date.Day }}
+            {{ substr (index $.Site.Data.mnd (printf "%d" .Date.Month)) 0 3}}
+            {{ .Date.Year }}
+    </div>
+    <a class="font-125 col-lg-5" href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <div class="font-weight-lighter small text-secondary font-italic col">
+        sist oppdatert: {{ .Lastmod.Day }}
+            {{ substr (index $.Site.Data.mnd (printf "%d" .Lastmod.Month)) 0 3}}
+            {{ .Lastmod.Year }}
+    </div>
+</div></li>
 {{ end }}
-        </ul>
-</div>
+</ul>
 </div>
 
 {{ end }}

@@ -1,6 +1,7 @@
 title = "Studentenes bridgeklubb"
 baseURL = "https://example.com"
 languageCode = "nb-no"
+DefaultContentLanguage = "nb-no"
 enableEmoji = true
 
 [permalinks]
