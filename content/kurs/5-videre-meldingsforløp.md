@@ -3,7 +3,7 @@ title: "Kurskveld 5: Videre meldingsforløp"
 order: 5
 date: 2019-09-30
 lastmod: 2019-10-01T23:10:34+02:00
-draft: false
+draft: true
 type: "kurs"
 ---
 {{< lead >}}
