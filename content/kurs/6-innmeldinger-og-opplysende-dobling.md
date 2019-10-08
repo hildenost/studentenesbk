@@ -1,5 +1,5 @@
 ---
-title: "Kurskveld 6: Innmeldinger og opplysende dobling"
+title: "Kurskveld 6: Innmelding og opplysende dobling"
 order: 6
 date: 2019-10-07
 lastmod: 2019-10-08T21:49:22+02:00
