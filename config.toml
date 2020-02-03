@@ -1,5 +1,5 @@
 title = "Studentenes bridgeklubb"
-baseURL = "https://example.com"
+baseURL = "https://www.studentenesbk.no/"
 languageCode = "nb-no"
 DefaultContentLanguage = "nb-no"
 enableEmoji = true
@@ -33,3 +33,4 @@ enableEmoji = true
   facebook = "https://www.facebook.com/groups/291823804205035"
   featured_image = "/images/playing-cards-dark.jpg"
   custom_css = ["css/custom.css"]
+  defaultKeywords = "studentenes bridgeklubb,studbk,studentenesbk,bridge,Trondheim,bridgekurs"

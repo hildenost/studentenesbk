@@ -13,4 +13,5 @@
     <link rel="stylesheet" href="/css/mystyle.css">
     {{ $title := .Site.Title }}
     <title>{{ $title }}</title>
+    <meta name="keywords" content="{{ range $index, $element := .Keywords }}{{if gt $index 0 }},{{ end }}{{ . }}{{ else }}{{ .Site.Params.defaultKeywords }}{{ end }}">
 </head>
