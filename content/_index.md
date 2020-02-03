@@ -1,5 +1,6 @@
 ---
 title: "Studentenes bridgeklubb"
+description: "Studentenes bridgeklubb holder til i Trondheim, og har utspring fra NTNU. Vi holder bridgekurs minst én gang hvert år."
 ---
 <h2>Liker du å spille kort?</h2>
 
