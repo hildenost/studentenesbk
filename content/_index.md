@@ -4,12 +4,12 @@ description: "Studentenes bridgeklubb holder til i Trondheim, og har utspring fr
 ---
 <h2>Vårsemesteret 2022 er i gang!</h2>
 <br />
-Vi spiller hver <strong>mandag kl 18.00-21</strong> i <strong>andre etasje av kantina i Kjelhuset</strong> på NTNU Gløshaugen.
+Vi spiller hver <strong>torsdag kl 18.00-21</strong> i <strong>andre etasje av kantina i Kjelhuset</strong> på NTNU Gløshaugen.
 
 Kan du ikke bridge ennå? Det lærer vi deg.
 Har du ikke makker? Vi har makkergaranti.
 
-Spørsmål sendes til <strong>hilde dot nost at gmail dot com</strong>.
+Spørsmål sendes til <strong>vgunnerud at gmail dot com</strong>.
 
 <img alt="spilleførers kort i forgrunnen, med blindemanns kort liggende på et mørkegrønt bord" src="/images/spilleforer.jpg" class="img-fluid" />
 
