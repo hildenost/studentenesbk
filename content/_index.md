@@ -2,9 +2,9 @@
 title: "Studentenes bridgeklubb"
 description: "Studentenes bridgeklubb holder til i Trondheim, og har utspring fra NTNU. Vi holder bridgekurs minst én gang hvert år."
 ---
-<h2>Vårsemesteret 2022 er i gang!</h2>
+<h2>Høstsemesteret 2022</h2>
 <br />
-Vi spiller hver <strong>torsdag kl 18.00-21</strong> i <strong>andre etasje av kantina i Kjelhuset</strong> på NTNU Gløshaugen.
+Vi spiller hver <strong>mandag kl 18.00-21</strong> i <strong>andre etasje av kantina i Kjelhuset</strong> på NTNU Gløshaugen.
 
 Kan du ikke bridge ennå? Det lærer vi deg.
 Har du ikke makker? Vi har makkergaranti.
