@@ -2,8 +2,19 @@
 title: "Studentenes bridgeklubb"
 description: "Studentenes bridgeklubb holder til i Trondheim, og har utspring fra NTNU. Vi holder bridgekurs minst én gang hvert år."
 ---
-<h2>Høstsemesteret 2022 starter i uke 36</h2>
+<h2>Høstsemesteret 2023 og kurs starter i uke 35</h2>
 <br />
+
+<h3>Bli med på nybegynnerkurs i bridge!</h3>
+
+<strong>Mandag 28. august 2023 18-21</strong> er første bridgekurskveld av totalt 7 kvelder.
+Hverken makker eller forhåndskunnskaper om bridge er nødvendig.
+
+Kurset holdes på rom <strong>KJL23 i andre etasje i Kjelhuset</strong> og er gratis.
+
+Spørsmål sendes til <strong>hilde dot nost at gmail dot com</strong>.
+
+<h3>Kan du allerede bridge?</h3>
 Vi spiller hver <strong>mandag kl 18.00-21</strong> i <strong>andre etasje av kantina i Kjelhuset</strong> på NTNU Gløshaugen.
 
 Kan du ikke bridge ennå? Det lærer vi deg.
