@@ -21,7 +21,7 @@ Hensikten er å finne eventuell trumftilpass, og også om vi skal i utgang eller
 Etter at makker har åpna i 1NT, vet du at hen har 15-17 poeng.
 Det er et ganske presist poengintervall, men litt slingringsmonn er det.
 
-Forrige gang lærte vi å melde [utgang](http://localhost:1313/2-utgang/#utgang) når vi kunne telle 25 poeng til sammen.
+Forrige gang lærte vi å melde [utgang](https://studentenesbk.no/2-utgang/#utgang) når vi kunne telle 25 poeng til sammen.
 Vi meldte utgang i _major_, det vil si spar eller hjerter, hvis vi hadde _trumftilpass_.
 Vi meldte utgang i NT om makker hadde åpna 1NT.
 
@@ -64,7 +64,7 @@ Du som åpna 1NT har 3 mulige svar på spørsmålet 2:clubs: fra makker:
 * **2:spades:** betyr _ja, jeg har minst 4 kort i spar (men ikke i hjerter)_.
 
 {{< alert >}}
-Det er viktig å melde 2:diamonds: når du ikke har major, og ikke 2NT.
+Det er viktig å melde 2 ruter når du ikke har major, og ikke 2NT.
 Hvis du melder 2NT, hvordan skal makker nå få invitert når du har tatt bort meldingen hens?
 {{< /alert >}}
 
