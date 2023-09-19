@@ -22,7 +22,7 @@ I tillegg gjorde vi litt om på kravet til antall kort i fargen når man åpner:
 ### 5-korts major
 Når man åpner 1 i farge, lærte vi først at vi skulle ha minst 4 kort i åpningsfargen.
 I tillegg skal man åpne på sin *lengste* farge,
-med minst 2 4-kortsfarger, skal man [åpne på den *lavest rangerte* fargen](http://localhost:1313/2-utgang/#%C3%A5pning-1-i-farge), og med 2 5-kortsfarger åpner man med den *høyest rangerte* fargen.
+med minst 2 4-kortsfarger, skal man [åpne på den *lavest rangerte* fargen](https://studentenesbk.no/2-utgang/#%C3%A5pning-1-i-farge), og med 2 5-kortsfarger åpner man med den *høyest rangerte* fargen.
 
 Derfor er det *kun* når man har *nøyaktig* 4 kort :spades:, 3 kort :hearts:, 3 kort :diamonds:, og 3 kort :clubs:, at man åpner med 1:spades:!
 
