@@ -27,7 +27,7 @@ I tillegg bør du dessuten ha **stopper eller hold** i motpartens farge.
 Makker kan fortsatt bruke Stayman 2:clubs: for å spørre om 4-korts major og overføringer 2:diamonds:/:hearts: for å fortelle om hhv 5-korts :hearts: og :spades:.
 
 #### Melde inn farge
-Når du melder inn en farge, viser du 12-17 poeng. [Med 18 poeng eller mer, skal du doble først](http://localhost:1313/6-innmeldinger-og-opplysende-dobling/#opplysende-dobling).
+Når du melder inn en farge, viser du 12-17 poeng. [Med 18 poeng eller mer, skal du doble først](https://studentenesbk.no/6-innmeldinger-og-opplysende-dobling/#opplysende-dobling).
 
 Dessuten viser du _minst_ 5 kort i fargen, uansett farge.
 
