@@ -144,8 +144,8 @@ Reglene for å velge farge å melde, er lik som med åpningsmeldingene, bare at 
 {{< example >}}
 Makker åpner 1:diamonds:, og du har ikke trumfstøtte.
 
-* Du har både 4 kort hjerter og 4 kort spar. Du melder 1:hearts: først, siden du har 2 4-kortsfarger.
-* Du har både 5 kort hjerter og 5 kort spar. Du melder 1:spades: først, siden du har 2 5-kortsfarger.
+* Du har både 4 kort hjerter og 4 kort spar. Du melder 1 hjerter først, siden du har 2 4-kortsfarger.
+* Du har både 5 kort hjerter og 5 kort spar. Du melder 1 spar først, siden du har 2 5-kortsfarger.
 {{< /example >}}
 
 {{< alert >}}
@@ -158,7 +158,7 @@ Grunnen til det er at majorkontrakter gir mer poeng enn minorkontrakter, og makk
 For å melde egen farge på 2-trinnet, må du ha minst 11 poeng.
 
 {{< example >}}
-Makker åpner 1:diamonds:, og du har ikke trumfstøtte.
+Makker åpner 1 ruter, og du har ikke trumfstøtte.
 
 Hva melder du med:
 
@@ -174,8 +174,8 @@ Hva melder du med:
 
 _Svar:_
 
-1. Med 13 poeng, kan du melde på 2-trinnet. Du melder din lengste farge: 2:clubs:.
-1. Med 9 poeng, kan du _ikke_ melde på 2-trinnet. Selv om kløveren er lengst, må du nøye deg med 1:spades:.
+1. Med 13 poeng, kan du melde på 2-trinnet. Du melder din lengste farge: 2 kløver.
+1. Med 9 poeng, kan du _ikke_ melde på 2-trinnet. Selv om kløveren er lengst, må du nøye deg med 1 spar.
 {{< /example >}}
 
 
