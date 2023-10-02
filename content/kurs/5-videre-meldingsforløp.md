@@ -137,7 +137,7 @@ Her er eksempler på hold:
 * Dxx
 * knxxx
 
-Dxx er ikke et _bra_ hold, det er bedre med knekten eller tia, men hvis motparten tar for ess og konge, er dama di godspilt.
+Dxx er ikke et _bra_ hold, det er bedre med knekten eller tia i tillegg, men hvis motparten tar for ess og konge, er dama di godspilt.
 {{< /example >}}
 
 Hvis du _ikke_ har hold i fargen, men du ser at dere har nok poeng til utgang, kan du melde **fjerde farge utgangskrav**.
