@@ -49,8 +49,8 @@ Hvis du har _mindre_, nemlig **12-14 poeng og balansert, åpner du 1 i farge fø
 Deretter gjenmelder du 1NT** om du har plass, hvis ikke må du melde 2NT.
 
 {{< example >}}
-* Etter 1:hearts: - 1:spades:, melder du 1NT
-* Etter 1:hearts: - 2:clubs:, melder du 2NT
+* Etter 1♥️ - 1♠️, melder du 1NT
+* Etter 1♥️ - 2♣️, melder du 2NT
 {{< /example >}}
 
 Har du _mer_ enn vanlig NT-åpning, nemlig **18-19 poeng, hopper du til 2NT** hvis makker svarer på 1-trinnet.
@@ -59,8 +59,8 @@ Siden 2-over-1 nå er utgangskrav, kan du også melde 2NT som 12-14-hånda.
 Makker kan ikke passe uansett siden dere skal i en eller annen utgang.
 
 {{< example >}}
-* Etter 1:hearts: - 1:spades:, melder du 2NT
-* Etter 1:hearts: - 2:clubs:, melder du 2NT
+* Etter 1♥️ - 1♠️, melder du 2NT
+* Etter 1♥️ - 2♣️, melder du 2NT
 {{< /example >}}
 
 Etter at makker svarer 1NT, kan du passe med 12-14 (utgang står trolig ikke), eller melde 2 eller 3 NT avhengig av dagsform med 18-19 poeng.
