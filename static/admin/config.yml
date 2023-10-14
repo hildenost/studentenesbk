@@ -13,11 +13,11 @@ collections:
         name: "resultater"
         file: "data/trondheimcup.json"
         fields:
-          - label: "Resultatliste"
-            name: "resultatliste"
+          - label: "Resultat"
+            name: "resultat"
             widget: "list"
             fields:
               - {label: "Navn", name: "title", widget: "string"}
-              - {label: "Dato", name: "date", widget: "datetime"}
+              - {label: "Dato", name: "date", widget: "datetime", date_format: "DD.MM.YYYY", time_format: false}
               - {label: "Link", name: "url", widget: "string"}
               - {label: "Par/lag", name: "type", widget: "select", options: ["pairs", "teams", "single"], default: ["pairs"]}
