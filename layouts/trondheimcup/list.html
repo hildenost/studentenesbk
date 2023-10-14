@@ -3,7 +3,7 @@
     {{ .Content }}
 </div>
 <div class="container col-md-7" id="TableOfContents">
-{{ range $.Site.Data.trondheimcup }}
+{{ range sort $.Site.Data.trondheimcup.resultat "date" "desc"}}
 <ul>
 {{ $date := time.AsTime .date }}
 <li><div class="row pb-3">
