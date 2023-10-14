@@ -4,6 +4,9 @@ languageCode = "nb-no"
 DefaultContentLanguage = "nb-no"
 enableEmoji = true
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [permalinks]
     kurs = "/:filename/"
 
