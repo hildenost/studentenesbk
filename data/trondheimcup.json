@@ -11,6 +11,24 @@
       "date": "2019-04-28T13:27:41.480Z",
       "title": "Trondheim Cup Lag 2019",
       "url": "https://www.bridgekrets.no/var/ruter/html/1869/2019-04-28.htm"
+    },
+    {
+      "date": "2023-04-29",
+      "title": "Trondheim Cup 2023",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2023-04-29.htm",
+      "type": "pairs"
+    },
+    {
+      "date": "2023-04-30",
+      "title": "Trondheim Cup Lag 2023",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2023-04-30.htm",
+      "type": "teams"
+    },
+    {
+      "date": "2022-05-01",
+      "title": "Trondheim Cup Lag 2022",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2022-05-01.htm",
+      "type": "teams"
     }
   ]
 }
