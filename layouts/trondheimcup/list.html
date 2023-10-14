@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div class="text-dark text-center container">
+    {{ .Content }}
+</div>
+<div class="container col-md-7" id="TableOfContents">
+{{ range $.Site.Data.trondheimcup }}
+<ul>
+{{ $date := time.AsTime .date }}
+<li><div class="row pb-3">
+        <div class="font-weight-lighter col-lg-3 text-lg-right text-secondary">{{ $date.Day }}.
+            {{ substr (index $.Site.Data.mnd (printf "%d" $date.Month)) 0 3}}
+            {{ $date.Year }}
+    </div>
+    <a class="font-125 col-lg-5" href="{{ .url }}" target="_blank">{{ .title }}</a>
+</div>
+</li>
+</ul>
+{{ end }}
+</div>
+
+{{ end }}
