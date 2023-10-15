@@ -1,6 +1,18 @@
 {
   "resultat": [
     {
+      "type": "teams",
+      "date": "2018-04-29T09:36:21.351Z",
+      "title": "Trondheim Cup Lag 2018",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2018-04-29.htm"
+    },
+    {
+      "type": "pairs",
+      "date": "2018-04-28T09:35:24.151Z",
+      "title": "Trondheim Cup 2018",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2018-04-28.htm"
+    },
+    {
       "type": "pairs",
       "date": "2022-04-30",
       "title": "Trondheim Cup 2022",
