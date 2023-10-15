@@ -17,10 +17,6 @@ enableEmoji = true
         url = "/"
         weight = 1
     [[menu.main]]
-        name = "Resultater"
-        url = "/resultater/"
-        weight = 2
-    [[menu.main]]
         name = "Kurs"
         url = "/kurs/"
         weight = 3
