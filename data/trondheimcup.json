@@ -1,6 +1,30 @@
 {
   "resultat": [
     {
+      "type": "pairs",
+      "date": "2016-04-30T09:41:21.539Z",
+      "title": "Trondheim Cup 2016",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2016-04-30.htm"
+    },
+    {
+      "type": "teams",
+      "date": "2016-05-01T09:40:45.992Z",
+      "title": "Trondheim Cup Lag 2016",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2016-05-01.htm"
+    },
+    {
+      "type": "pairs",
+      "date": "2017-04-29T09:40:24.625Z",
+      "title": "Trondheim Cup 2017",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2017-04-29.htm"
+    },
+    {
+      "type": "teams",
+      "date": "2017-04-30T09:39:03.411Z",
+      "title": "Trondheim Cup Lag 2017",
+      "url": "https://www.bridgekrets.no/var/ruter/html/1869/2017-04-30.htm"
+    },
+    {
       "type": "teams",
       "date": "2018-04-29T09:36:21.351Z",
       "title": "Trondheim Cup Lag 2018",
